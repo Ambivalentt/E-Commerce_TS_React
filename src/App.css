@@ -1,0 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/samsungone');
+
+.font-navbar{
+    font-family: 'Samsung Sharp Sans', sans-serif;
+}
+
+.navbar{
+    background-color: #ffffff;
+}
+
+.navbar-btn{
+    background-color: black;
+}
+
